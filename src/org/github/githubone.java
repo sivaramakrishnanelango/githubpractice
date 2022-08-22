@@ -21,6 +21,16 @@ public class githubone {
 		System.out.println("D-4D diesel engines");
 
 	}
+	
+	private void TATA() {
+		System.out.println("Build Quality");
+
+	}
+	
+	private void volksWagon() {
+		System.out.println("Ride Quality");
+
+	}
 public static void main(String[] args) {
 	
 	githubone g = new githubone();
@@ -28,5 +38,7 @@ public static void main(String[] args) {
 	g.bus();
 	g.Truck();
 	g.toyota();
+	g.TATA();
+	g.volksWagon();
 }
 }
