@@ -31,6 +31,15 @@ public class githubone {
 		System.out.println("Ride Quality");
 
 	}
+	
+	private void mahinDra() {
+		System.out.println("scorpio N line is my favourite");
+
+	}
+	private void cheverLot() {
+		System.out.println("cruze is a diesel rocket");
+
+	}
 public static void main(String[] args) {
 	
 	githubone g = new githubone();
@@ -40,5 +49,7 @@ public static void main(String[] args) {
 	g.toyota();
 	g.TATA();
 	g.volksWagon();
+	g.mahinDra();
+	g.cheverLot();
 }
 }
