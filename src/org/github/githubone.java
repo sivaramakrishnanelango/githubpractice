@@ -11,10 +11,22 @@ public class githubone {
 		System.out.println("i like to travel in volvo bus");
 
 	}
+	
+	private void Truck() {
+		System.out.println("i love to drive scania truck");
+
+	}
+	
+	private void toyota() {
+		System.out.println("D-4D diesel engines");
+
+	}
 public static void main(String[] args) {
 	
 	githubone g = new githubone();
 	g.car();
 	g.bus();
+	g.Truck();
+	g.toyota();
 }
 }
